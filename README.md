@@ -5,7 +5,7 @@
 <h3 align="center">Quick learner and an aspiring full-stack web developer with core knowledge of MERN stack technology. Looking forward to applying and enhancing my skills and knowledge as a developer.</h3>
 
 
-## <p style="display:flex; align-items: center"> <img src="https://img.icons8.com/color/48/000000/user-male-circle--v2.png"/> About Me </p> 
+## <p style="display:flex; align-items: center"> About Me </p> 
 
 - 👨‍💻 My Portfolio - **[Akash Patil](https://quiet-manatee-273999.netlify.app/)**
 
