@@ -29,7 +29,7 @@
 
 </p>
 
-## <p style="display:flex; align-items: center;top:5%;"> <img src="https://img.icons8.com/color/48/000000/source-code.png"/> Languages and Tools:</p> 
+## <p style="display:flex; align-items: center;top:20%;"> <img src="https://img.icons8.com/color/48/000000/source-code.png"/> Languages and Tools:</p> 
 
 <p align="left"> 
   <a href="https://www.cplusplus.com" target="_blank"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> </a>
