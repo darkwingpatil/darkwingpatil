@@ -23,7 +23,7 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/akash-patil-468771201/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://mail.google.com/mail/u/0/#inbox"><img src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a>
 <!-- <a href = "https://www.instagram.com/chiranjeev_thapliyal/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a> -->
 
