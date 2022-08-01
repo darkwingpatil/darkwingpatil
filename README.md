@@ -7,7 +7,7 @@
 
 ## <p style="display:flex; align-items: center"> About Me </p> 
 
-- 👨‍💻 My Portfolio - **[Akash Patil](https://akashpatilwing12portfolio.netlify.app/)**
+- 👨‍💻 My Portfolio - **[Akash Patil]()**
 
 - 🔭 I’m currently working on **[Meesho Clone](https://github.com/darkwingpatil/MeeshoClone)**
 
