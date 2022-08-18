@@ -9,7 +9,7 @@
 
 - 👨‍💻 My Portfolio - **[Akash Patil](https://akashpatilwing12portfolio.netlify.app/)**
 
-- 🔭 I’m currently working on **[Tata 1mg Clone](https://github.com/nagesh199/shocking-grade-9442**
+- 🔭 I’m currently working on **[Tata 1mg Clone](https://github.com/nagesh199/shocking-grade-9442)**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
