@@ -2,7 +2,8 @@
 
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Akash Patil</h1>
-<h3 align="center">Quick learner and an aspiring full-stack web developer with core knowledge of MERN stack technology. Looking forward to applying and enhancing my skills and knowledge as a developer.</h3>
+<h3 align="center">🚀 Coding in progress... Building the future, one line at a time. 💻✨
+#CodeCrafting #SoftwareDevelopment #InnovationInProgress</h3>
 
 
 ## <p style="display:flex; align-items: center"> About Me </p> 
