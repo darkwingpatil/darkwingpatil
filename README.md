@@ -9,9 +9,6 @@
 
 - 👨‍💻 My Portfolio - **[Akash Patil](https://akashpatilwing12portfolio.netlify.app/)**
 
-- 🔭 I’m currently working on **[Tata 1mg Clone](https://github.com/nagesh199/shocking-grade-9442)**
-
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
 
 - <p style="display:flex; align-items: center;"> <img src="https://img.icons8.com/color/18/000000/teamwork--v2.png" style="margin-right: 10px"/> I’m looking to collaborate on OpenSource Projects </p> 
 
