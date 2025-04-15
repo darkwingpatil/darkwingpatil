@@ -19,7 +19,7 @@
 ## 🚀 Tech Stack
 
 **Languages:**  
-`JavaScript` `TypeScript` `Python` `F#` `C#` `Shell`
+`JavaScript` `TypeScript` `Python` `F#` `C#` 
 
 **Frameworks & Libraries:**  
 `React` `Node.js` `Express` `NestJS` `FastAPI` `Redux`
@@ -79,13 +79,3 @@
 </p>
 
 ---
-
-## 🔥 Streaks & Activity
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=darkwingpatil&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-</p>
-
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=darkwingpatil&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
-</p>
