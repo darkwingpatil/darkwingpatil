@@ -16,6 +16,12 @@
 
 ---
 
+## 🕹️ Portfolio
+
+- 🎮 Explore my interactive developer portfolio built with Kaboom.js  
+  👉 [Launch the Portfolio Game](https://akashpluralsight.github.io/Portfolio/)
+
+
 ## 🚀 Tech Stack
 
 **Languages:**  
