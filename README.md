@@ -7,7 +7,7 @@
 
 ## 👨‍💻 About Me
 
-- 🔧 Software Engineer @ Pluralsight | Previously @ Masai
+- 🔧 Senior Software Engineer @ Pluralsight | Previously @ Masai
 - 💡 Passionate about system design, distributed systems, and developer tooling
 - 📊 Built alerting, reporting, and AI bots across cloud-native, real-time systems
 - 🎓 PG Certification in AI/ML – IIIT Hyderabad
