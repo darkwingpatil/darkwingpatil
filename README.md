@@ -25,10 +25,10 @@
 ## 🚀 Tech Stack
 
 **Languages:**  
-`JavaScript` `TypeScript` `Python` `F#` `C#` 
+`JavaScript` `TypeScript` `Python` `F#` `C#` `Java`
 
 **Frameworks & Libraries:**  
-`React` `Node.js` `Express` `NestJS` `FastAPI` `Redux`
+`React` `Node.js` `Express` `NestJS` `FastAPI` `Redux` `Nancy`
 
 **Databases & Messaging:**  
 `PostgreSQL` `MongoDB` `Redis` `Cassandra` `Kafka` `RabbitMQ`
@@ -60,22 +60,6 @@
 
 ---
 
-## 🛠️ Languages and Tools
-
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge"/>
-</p>
-
----
 
 ## 📊 GitHub Stats
 
